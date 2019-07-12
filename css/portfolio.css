@@ -1,0 +1,278 @@
+html
+{
+ display: flex;
+ font-family: 'Times New Roman', Times, serif;
+ color: rgb(249, 250, 249);
+ counter-increment: inherit;
+ margin: 0px;
+ background-color: black;   
+ background-image: url("../image/earth-from-space.jpeg");
+ background-position:center;
+ background-repeat:no-repeat;
+ background-size:cover;
+ padding-bottom: 3px;
+}
+.paleo
+{ 
+  background-image:url("../image/giphy.gif");
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin-left: 200px;
+  margin-right: 100px;
+  height: 260px;
+  width: 1495px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+#king
+{
+  overflow: hidden;
+  background-color: grey;
+  margin-left: 200px;
+  width: 1498px;
+}
+
+#king a 
+{
+  float: left;
+  color: white;
+  background-color: black;
+  display: flex;
+  text-align: right;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-size: 17px;
+  justify-content: space-around;
+  background-image: url("../image/pont.jpg");
+}
+
+#king a:hover
+{
+float: left;
+color: white;
+background-image: url("../image/earth.from.space.jpg")
+}
+
+#of
+{
+  text-align: center;
+  color: rgb(153, 28, 28);
+  margin-top: 15px;
+}
+
+.back
+{
+text-align:center;
+color: white;
+}
+
+
+.beta
+{
+  height: 663%;
+  width: 792px;
+  margin-left: 527px;
+  margin-right: 90px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#esta
+{
+  width: 100%;
+  height: 200;
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+#down
+{
+  height: 66310%;
+  width: 1025px;
+  margin-left: 451px;
+  margin-right: 90px;
+  display: flex;
+  justify-content: space-around;  
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+.ma_classe1
+{
+  border: 3px black;
+  width:100px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  transition-property: width; 
+  transition-duration: 1s;
+  background-color:black; 
+
+}
+.ma_classe1:hover
+{
+  border: 3px black;
+  width:100px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 1px 2px 3px;
+}
+.ma_classe2
+{
+  border: 3px black;
+  width:100px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  transition-property: width; 
+  transition-duration: 1s;
+  background-color:black; 
+}
+.ma_classe2:hover
+{
+  border: 3px black;
+  width:100px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 1px 2px 3px;
+}
+.ma_classe3
+{
+  border: 3px black;
+  width:100px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  transition-property: width; 
+  transition-duration: 1s;
+  background-color:black; 
+}
+.ma_classe3:hover
+{
+  border: 3px black;
+  width:100px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 1px 2px 3px;
+}
+.ma_classe3
+{
+  border: 3px black;
+  width:100px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  transition-property: width; 
+  transition-duration: 1s;
+  background-color:black; 
+}
+.ma_classe3:hover
+{
+  border: 3px black;
+  width:100px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 1px 2px 3px;
+}
+.ma_classe4
+{
+  border: 3px black;
+  width:100px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  transition-property: width; 
+  transition-duration: 1s;
+  background-color:black; 
+}
+.ma_classe4:hover
+{
+  border: 3px black;
+  width:100px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 1px 2px 3px;
+}
+
+.container
+{
+  position: relative;
+  width: 50%;
+}
+
+.overlay5
+{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width:91%;
+  opacity: 0;
+  transition:.5s ease;
+ 
+}
+
+ .container:hover .overlay4{
+   opacity:1;
+ }
+ .container:hover .overlay5{
+  opacity:1;
+ }
+  .container:hover .overlay6{
+    opacity:1;
+  }
+
